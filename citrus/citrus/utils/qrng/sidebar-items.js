@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["HaltonError"],"fn":["halton"],"static":["PRIMES"],"struct":["Halton"]};

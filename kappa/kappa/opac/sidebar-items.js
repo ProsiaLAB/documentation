@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["KappaError","KappaMethod","MaterialKind","RefractiveIndexKind","SizeDistribution","WavelengthKind"],"fn":["bruggeman_blend","compute_kappa","maxwell_garnet_blend","over_wavelengths","prepare_inputs","run"],"struct":["Component","KappaConfig","KappaResult","KappaState","Material","Mueller","Particle"],"trait":["SpecialConfigs"]};

@@ -1,0 +1,2 @@
+createSrcSidebar('[["kappa",["",[],["cli.rs","components.rs","config.rs","dhs.rs","fractal.rs","geofractal.rs","io.rs","lib.rs","mie.rs","opac.rs","utils.rs"]]]]');
+//{"start":19,"fragment_lengths":[141]}

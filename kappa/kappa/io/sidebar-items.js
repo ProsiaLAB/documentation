@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["create_output_file","read_lnk_file","read_sizedis_file","read_wavelength_grid","write_opacities","write_sizedis_file","write_wavelength_grid"]};
