@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["RemoveKind","TestParticleKind"],"struct":["Particle","Particles"],"trait":["Transformations"]};

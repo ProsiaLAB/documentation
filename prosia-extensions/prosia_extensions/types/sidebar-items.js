@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["Vec3"],"type":["BVector","IVector","Matrix","RMatView","RMatViewMut","RMatrix","RTensor","RTensor4","RVecView","RVecViewMut","RVector","Tensor","UMatrix","UVector","Vector"]};

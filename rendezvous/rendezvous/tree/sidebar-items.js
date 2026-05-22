@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["NodeKind"],"struct":["Node","NodeId","Tree"],"type":["TreeKind","TreeParam"]};

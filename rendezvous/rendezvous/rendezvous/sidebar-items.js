@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ExitStatus","RunState","VariationalOrder"],"struct":["Simulation","VariationalConfig"],"type":["SimulationHook","StepDecision"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["CscMatrix","SparseTriplet"]};

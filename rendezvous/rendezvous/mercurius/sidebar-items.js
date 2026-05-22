@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["MercuriusMode","SwitchFunction"],"fn":["f"],"struct":["Mercurius"]};
