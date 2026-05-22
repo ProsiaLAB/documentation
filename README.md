@@ -1,2 +1,2 @@
 # documentation
-Documentation for different ProsiaLAB projects
+Documentation for ProsiaLAB projects
